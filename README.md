@@ -127,10 +127,41 @@ Critério Regular:
 
 [Assistido por IA]
 
-BRASIL. Lei Geral de Proteção de Dados Pessoais – Lei nº 13.709/2018.
+Livros e obras acadêmicas
 
-FLORIDI, Luciano. Ethics of Artificial Intelligence. Oxford University Press.
+ALMEIDA, Guilherme de Souza Nucci; LIMA, Erik Navarro Wolkart. Inteligência Artificial e Direito. São Paulo: Revista dos Tribunais, 2021.
 
-SUSSKIND, Richard. Tomorrow’s Lawyers. Oxford University Press.
+DONEDA, Danilo; MENDES, Laura Schertel; SARLET, Ingo Wolfgang (org.). Privacidade, Proteção de Dados e Defesa do Consumidor. São Paulo: RT, 2019.
 
-Diretrizes institucionais sobre integridade acadêmica e uso de tecnologias educacionais.
+PINHEIRO, Patricia Peck. Direito Digital Aplicado. 2. ed. São Paulo: Saraiva Educação, 2022.
+
+TEPEDINO, Gustavo; FRAZÃO, Ana; OLIVA, Milena Donato (org.). Lei Geral de Proteção de Dados Pessoais e suas Repercussões no Direito Brasileiro. São Paulo: Thomson Reuters Brasil, 2019.
+
+
+Artigos científicos e acadêmicos
+
+FRAZÃO, Ana. Inteligência artificial e tomada de decisão automatizada: desafios jurídicos e éticos. Revista de Direito Civil Contemporâneo, São Paulo, v. 18, p. 11–35, 2019.
+
+MENDES, Laura Schertel. Privacidade, proteção de dados e defesa do consumidor no ambiente digital. Revista de Direito do Consumidor, São Paulo, v. 100, p. 35–60, 2015.
+
+SILVA, Virgílio Afonso da. O impacto da tecnologia no Direito e no ensino jurídico. Revista da Faculdade de Direito da USP, São Paulo, v. 113, p. 245–268, 2018.
+
+SARLET, Ingo Wolfgang; MOLINARO, Carlos Alberto. Inteligência artificial e direitos fundamentais: aproximações iniciais. Revista Brasileira de Direito, Passo Fundo, v. 16, n. 2, p. 7–29, 2020.
+
+
+Documentos institucionais e normativos
+
+BRASIL. Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018).
+
+CONSELHO NACIONAL DE JUSTIÇA (CNJ). Inteligência Artificial no Poder Judiciário Brasileiro. Brasília, 2020.
+
+ORDEM DOS ADVOGADOS DO BRASIL (OAB). Estudos sobre Inteligência Artificial e Advocacia. Brasília, Comissão Especial de Direito Digital.
+
+
+Referências sobre educação e uso pedagógico da IA
+
+MORAN, José Manuel. Educação e tecnologias: mudar para valer. Campinas: Papirus, 2019.
+
+VALENTE, José Armando. Tecnologias digitais, ensino superior e aprendizagem ativa. Revista Educação & Sociedade, Campinas, v. 39, n. 144, 2018.
+
+BACICH, Lilian; MORAN, José (org.). Metodologias ativas para uma educação inovadora. Porto Alegre: Penso, 2018.
