@@ -37,7 +37,7 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
 └── README.md
 
 ---
-
+```
 ## 4) Resumo do plano de aula
  
 - **Tema/Disciplina:** Utilizando a Inteligência Artificial para o Estudo do Direito.
@@ -113,7 +113,7 @@ Using Artificial Intelligence for the Study of Law
 
 The document presents a lesson plan designed for third-semester Law students, with a duration of 50 minutes, which may be delivered in a face-to-face or hybrid format. Its main focus is the introduction of artificial intelligence (AI) as a support tool for legal studies, with particular attention to critical, ethical, and academic considerations. The text contextualizes the growing presence of AI in the legal and academic environment, highlighting its use in case law research, analysis of legal texts, organization of study materials, and support for legal writing. It emphasizes the importance of developing digital competencies while preserving the ethical training required of future legal professionals. The justification stresses that contemporary legal education requires not only mastery of normative content, but also an understanding of technological tools that impact legal practice, preparing students for an increasingly technology-driven legal market. The learning objectives include understanding the basic concept of AI, identifying its applications in the study of Law, using AI as a learning support tool, and recognizing its limits, risks, and ethical implications in the academic environment. The syllabus content covers introductory concepts of AI, generative AI, practical applications in Law (research, summaries, and comprehension of normative texts), as well as academic and ethical limits and best practices for responsible use in undergraduate legal education. The teaching methodology combines dialogued lectures, practical demonstrations of AI tools, individual or group activities, and a concluding discussion aimed at critical reflection. Assessment is formative, based on review exercises adapted to students’ different levels of knowledge about AI. The activities are organized into two groups (beginners and students with intermediate or advanced knowledge of AI), allowing for differentiated assessment. The plan also includes an evaluation rubric with criteria related to conceptual understanding, application to Law, ethical reflection, and clarity of responses. Finally, the document provides bibliographic references in Portuguese, including books, academic articles, and institutional documents on artificial intelligence, digital law, data protection, ethics, and education, offering a solid theoretical foundation for the lesson. 
 [Translation produced with the support of an artificial intelligence tool (Microsoft Copilot) and subsequently subjected to careful human review.] 
----
+
 - **Observações de inclusão linguística:** [como o trecho pode apoiar estudantes multilíngues]
 
 Resumo do Plano de Aula para suporte de estudantes estudantes multilíngues democratizando e internacionalizando o acesso aoa conteúdo.
