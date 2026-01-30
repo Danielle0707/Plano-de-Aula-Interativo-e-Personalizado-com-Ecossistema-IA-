@@ -1,183 +1,81 @@
 # Plano-de-Aula-Interativo-e-Personalizado-com-Ecossistema-IA-
 Desafio prático do uso de ferramentas de IA aplicadas para o contexto educacional.
 
-PLANO DE AULA
-
-Curso: Direito
-Semestre: 3º semestre
-Duração: 50 minutos
-Modalidade: Presencial 
-
-📌 Plano de Aula elaborado com apoio de ferramenta de Inteligência Artificial (Chat-GPT) para sistematização de ideias do professor e disponibilizado após criteriosa revisão.
-
-1. Título
-
-Utilizando a Inteligência Artificial para o Estudo do Direito
-[Assistido por IA]
-
-2. Contexto
-
-[Assistido por IA]
-
-A inteligência artificial tem sido incorporada progressivamente ao cotidiano acadêmico e profissional do Direito, especialmente em atividades como pesquisa jurisprudencial, análise de textos legais, organização de estudos e apoio à escrita jurídica. Para estudantes do terceiro semestre, o contato inicial com essas tecnologias contribui para o desenvolvimento de competências digitais essenciais, sem perder de vista a formação crítica e ética exigida na área jurídica.
-
-3. Justificativa
-
-[Assistido por IA]
-
-A formação jurídica contemporânea demanda que o estudante compreenda não apenas o conteúdo normativo, mas também as ferramentas tecnológicas que impactam a prática do Direito. Introduzir o uso da inteligência artificial no estudo jurídico favorece a autonomia acadêmica, otimiza o processo de aprendizagem e prepara o futuro profissional para um mercado cada vez mais tecnológico, ao mesmo tempo em que reforça a importância do uso ético e responsável dessas ferramentas.
-
-4. Objetivos de Aprendizagem
-
-[Assistido por IA]
-
-Ao final da aula, o aluno deverá ser capaz de:
-
-Compreender o conceito básico de inteligência artificial
-
-Identificar aplicações da IA no estudo do Direito
-
-Utilizar a IA como ferramenta de apoio ao aprendizado jurídico
-
-Reconhecer limites, riscos e aspectos éticos do uso da IA no meio acadêmico
-
-5. Conteúdo Programático
-
-[Assistido por IA]
-
-Conceito introdutório de Inteligência Artificial
-
-IA generativa e ferramentas de apoio ao estudo
-
-Aplicações da IA no Direito:
-
-Pesquisa doutrinária e jurisprudencial
-
-Resumos e organização de conteúdos
-
-Apoio à compreensão de textos normativos
-
-Limites acadêmicos e éticos no uso da IA
-
-Boas práticas no uso de IA na graduação em Direito
-
-6. Metodologia
-
-[Assistido por IA]
-
-Exposição dialogada (15 minutos): apresentação conceitual com exemplos práticos
-
-Demonstração orientada (10 minutos): simulação do uso de uma ferramenta de IA aplicada ao estudo jurídico
-
-Atividade prática individual ou em pequenos grupos (15 minutos): resolução de exercícios conforme o nível de conhecimento em IA
-
-Discussão e fechamento (10 minutos): reflexão crítica sobre benefícios e limites da IA no estudo do Direito
-
-7. Avaliação da Aprendizagem
-
-[Assistido por IA]
-
-Tipo de Avaliação:
-
-Avaliação formativa, por meio de exercícios de revisão realizados em sala ou como atividade breve pós-aula. O uso de questões discursivas se mostra essencial para a formação do raciocínio lógico e jurídico do estudante, além de observar a persuasão e uso correto da bibliografia apresentada.
-
-8. Exercícios de Revisão (Avaliação Diferenciada)
-
-[Assistido por IA]
-
-Grupo A – Pouco ou nenhum conhecimento em IA
-
-Explique, com suas palavras, o que é inteligência artificial.
-
-Cite duas formas pelas quais a IA pode auxiliar o estudante de Direito.
-
-Indique um cuidado ético importante no uso da IA em atividades acadêmicas.
-
-Grupo B – Médio e alto conhecimento em IA
-
-Apresente um exemplo prático de uso da IA para estudar um tema jurídico.
-
-Analise um risco do uso inadequado da IA na formação acadêmica em Direito.
-
-Proponha duas boas práticas para o uso responsável da IA no curso de Direito.
-
-9. Rubrica de Correção
-
-[Assistido por IA]
-
-Critério Excelente:
-- Compreensão do conceito de IA:	Demonstra compreensão clara, precisa e contextualizada;
-- Aplicação ao estudo do Direito: Relaciona a IA ao estudo jurídico de forma adequada e crítica;
-- Reflexão ética	Apresenta reflexão crítica e consciente.
-- Clareza das respostas: Respostas bem organizadas e coerentes
-
-Critério Bom:
-- Compreensão do conceito de IA:	Demonstra compreensão geral com pequenas imprecisões
-- Aplicação ao estudo do Direito: Relaciona de forma básica, com poucos exemplos	
-- Reflexão ética: Identifica aspectos éticos de forma simples
-- - Clareza das respostas: Respostas compreensíveis, com pouca organização
-  
-Critério Regular:
-- Compreensão do conceito de IA: Compreensão limitada ou superficial
-- Aplicação ao estudo do Direito: Dificuldade em relacionar IA e Direito
-- Reflexão ética: Apresenta reflexão mínima ou incompleta
-- Clareza das respostas: Respostas confusas ou incompletas
-
-10. Referências
-
-[Assistido por IA]
-
-Livros e obras acadêmicas
-
-ALMEIDA, Guilherme de Souza Nucci; LIMA, Erik Navarro Wolkart. Inteligência Artificial e Direito. São Paulo: Revista dos Tribunais, 2021.
-
-DONEDA, Danilo; MENDES, Laura Schertel; SARLET, Ingo Wolfgang (org.). Privacidade, Proteção de Dados e Defesa do Consumidor. São Paulo: RT, 2019.
-
-PINHEIRO, Patricia Peck. Direito Digital Aplicado. 2. ed. São Paulo: Saraiva Educação, 2022.
-
-TEPEDINO, Gustavo; FRAZÃO, Ana; OLIVA, Milena Donato (org.). Lei Geral de Proteção de Dados Pessoais e suas Repercussões no Direito Brasileiro. São Paulo: Thomson Reuters Brasil, 2019.
-
-
-Artigos científicos e acadêmicos
-
-FRAZÃO, Ana. Inteligência artificial e tomada de decisão automatizada: desafios jurídicos e éticos. Revista de Direito Civil Contemporâneo, São Paulo, v. 18, p. 11–35, 2019.
-
-MENDES, Laura Schertel. Privacidade, proteção de dados e defesa do consumidor no ambiente digital. Revista de Direito do Consumidor, São Paulo, v. 100, p. 35–60, 2015.
-
-SILVA, Virgílio Afonso da. O impacto da tecnologia no Direito e no ensino jurídico. Revista da Faculdade de Direito da USP, São Paulo, v. 113, p. 245–268, 2018.
-
-SARLET, Ingo Wolfgang; MOLINARO, Carlos Alberto. Inteligência artificial e direitos fundamentais: aproximações iniciais. Revista Brasileira de Direito, Passo Fundo, v. 16, n. 2, p. 7–29, 2020.
-
-
-Documentos institucionais e normativos
-
-BRASIL. Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018).
-
-CONSELHO NACIONAL DE JUSTIÇA (CNJ). Inteligência Artificial no Poder Judiciário Brasileiro. Brasília, 2020.
-
-ORDEM DOS ADVOGADOS DO BRASIL (OAB). Estudos sobre Inteligência Artificial e Advocacia. Brasília, Comissão Especial de Direito Digital.
-
-
-Referências sobre educação e uso pedagógico da IA
-
-MORAN, José Manuel. Educação e tecnologias: mudar para valer. Campinas: Papirus, 2019.
-
-VALENTE, José Armando. Tecnologias digitais, ensino superior e aprendizagem ativa. Revista Educação & Sociedade, Campinas, v. 39, n. 144, 2018.
-
-BACICH, Lilian; MORAN, José (org.). Metodologias ativas para uma educação inovadora. Porto Alegre: Penso, 2018.
-
-
-Summary of the Lesson Plan with the purpose of supporting multilingual students and promoting the democratization and internationalization of access to academic content.
-
-Using Artificial Intelligence for the Study of Law
-
-The document presents a lesson plan designed for third-semester Law students, with a duration of 50 minutes, which may be delivered in a face-to-face or hybrid format. Its main focus is the introduction of artificial intelligence (AI) as a support tool for legal studies, with particular attention to critical, ethical, and academic considerations.
-The text contextualizes the growing presence of AI in the legal and academic environment, highlighting its use in case law research, analysis of legal texts, organization of study materials, and support for legal writing. It emphasizes the importance of developing digital competencies while preserving the ethical training required of future legal professionals.
-The justification stresses that contemporary legal education requires not only mastery of normative content, but also an understanding of technological tools that impact legal practice, preparing students for an increasingly technology-driven legal market.
-The learning objectives include understanding the basic concept of AI, identifying its applications in the study of Law, using AI as a learning support tool, and recognizing its limits, risks, and ethical implications in the academic environment.
-The syllabus content covers introductory concepts of AI, generative AI, practical applications in Law (research, summaries, and comprehension of normative texts), as well as academic and ethical limits and best practices for responsible use in undergraduate legal education.
-The teaching methodology combines dialogued lectures, practical demonstrations of AI tools, individual or group activities, and a concluding discussion aimed at critical reflection. Assessment is formative, based on review exercises adapted to students’ different levels of knowledge about AI.
-The activities are organized into two groups (beginners and students with intermediate or advanced knowledge of AI), allowing for differentiated assessment. The plan also includes an evaluation rubric with criteria related to conceptual understanding, application to Law, ethical reflection, and clarity of responses.
-Finally, the document provides bibliographic references in Portuguese, including books, academic articles, and institutional documents on artificial intelligence, digital law, data protection, ethics, and education, offering a solid theoretical foundation for the lesson.
-
-[Translation produced with the support of an artificial intelligence tool (Microsoft Copilot) and subsequently subjected to careful human review.]
+Plano de Aula Interativo e Personalizado com Ecossistema IA
+Descrição do desafio
+Desafio prático em IA aplicada à educação para avaliar as competências adquiridas e preparar a aplicação no mundo real. Você irá criar um plano de aula interativo e personalizado usando um ecossistema de IA (ex.: ChatGPT e Microsoft Copilot), com atenção a ética, autoria e proteção de dados (LGPD), além de adaptação para pelo menos dois perfis de alunos e internacionalização de um pequeno trecho do material.
+A entrega inclui plano, apresentação e reflexão crítica, com transparência sobre o que foi assistido/gerado por IA e qual foi a revisão humana.
+
+1) Objetivos de aprendizagem
+Aplicar fundamentos de IA para escolher ferramentas adequadas em cada etapa (planejamento, materiais, apresentação, adaptação, tradução).
+Gerar o esqueleto do plano de aula com IA e transformá-lo em um documento didático completo.
+Produzir materiais e slides com suporte de IA, mantendo autoria e clareza pedagógica.
+Adaptar conteúdo/atividades para ≥ 2 perfis de alunos (ex.: dificuldades de leitura vs. alto interesse; perfil visual vs. auditivo).
+Internacionalizar um pequeno trecho do material (revisão + tradução rápida) para inclusão linguística.
+Demonstrar boas práticas de ética, privacidade e transparência no uso de IA.
+2) Entregáveis (obrigatórios)
+Plano de Aula Detalhado — Plano_de_Aula_IA.pdf ou .docx
+Deve conter: objetivos, conteúdo, metodologia, avaliação e diferenciação.
+Indique claramente o que foi criado/assistido por IA (ex.: comentários no Word, marcações no PDF).
+
+Apresentação — Apresentacao_Aula_IA.pptx ou link do PowerPoint online
+Se hospedado em OneDrive/Google Drive, inclua o link no README.
+
+Reflexão — Reflexao_IA.docx ou .pdf ou seção no README
+Explique ferramentas usadas, desafios (ética/privacidade), soluções, ganhos de tempo e lições aprendidas.
+
+README.md (este arquivo) — título, descrição do desafio, resumo do plano, ferramentas de IA, links externos, reflexão final e créditos.
+3) Estrutura do repositório (sugerida)
+
+📁 Projeto-Plano-Aula-IA/
+├── Plano_de_Aula_IA.pdf
+├── Apresentacao_Aula_IA.pptx
+├── Reflexao_IA.docx
+└── README.md
+
+4) Resumo do plano de aula (preencha)
+Tema/Disciplina: [ex.: Frações — 6º ano]
+Objetivos de aprendizagem: [bullets]
+Conteúdo programático: [bullets]
+Metodologia e recursos (incluindo IA): [bullets]
+Avaliação e critérios: [bullets]
+Diferenciação/Adaptações: [estratégias para atender perfis distintos]
+Transparência de IA: use comentários/revisões no Word ou marcações no PDF para sinalizar os trechos assistidos/gerados por IA e a revisão humana aplicada.
+
+5) Personalização para 2 perfis de alunos (obrigatória)
+Descreva como o plano contempla pelo menos dois perfis:
+
+Perfil A: [características] → adaptações em conteúdo/atividade/avaliação
+Perfil B: [características] → adaptações em conteúdo/atividade/avaliação
+Exemplos de perfis: dificuldades de leitura; alto interesse no tema; preferência visual; preferência auditiva; necessidades de ritmo diferenciado; acesso limitado a tecnologia etc.
+
+6) Internacionalização de um trecho (obrigatória)
+Inclua um pequeno trecho do material com revisão inteligente e tradução rápida:
+
+Trecho original: [colar ou linkar]
+Trecho traduzido: [colar ou linkar]
+Observações de inclusão linguística: [como o trecho pode apoiar estudantes multilíngues]
+7) Ecossistema de IA — fluxo sugerido
+ChatGPT → gerar esqueleto do plano; rascunhar atividades; criar variações para perfis distintos.
+Copilot no Word → refinar linguagem, formatar o documento, revisar e traduzir o pequeno trecho.
+Copilot no PowerPoint → criar slides que sintetizem conteúdo e engajem a turma.
+Revisão humana → checagem de precisão, alinhamento curricular, direitos autorais e adequação do nível de leitura.
+Dica: mantenha prompts reutilizáveis em um .docx/.txt (ex.: “Estrutura de objetivos”, “Adaptar para perfil visual”, “Reescrever em linguagem simples”, “Gerar slides-resumo por seção”).
+
+8) Ética, proteção de dados e autoria
+Privacidade/LGPD: não compartilhe dados pessoais; anonimize exemplos (nomes, imagens, localização).
+Autoria e fontes: cite referências; evite plágio; verifique originalidade quando necessário.
+Transparência: documente o que a IA produziu e o que você revisou/ajustou.
+Limites e vieses: faça leitura crítica das saídas da IA e ajuste para o contexto pedagógico real.
+9) Reflexão (resumida aqui ou em arquivo dedicado)
+Ferramentas de IA utilizadas e por que foram escolhidas.
+Desafios (especialmente ética/privacidade) e soluções adotadas.
+Otimização do tempo: o que acelerou? o que exigiu mais curadoria humana?
+Personalização: efeitos das adaptações nos diferentes perfis.
+Lições aprendidas e próximos passos.
+10) Como entregar no GitHub (passo a passo)
+Acesse o GitHub e clique em New repository.
+Dê um nome ao repositório (ex.: Projeto-Plano-Aula-IA) e deixe como público.
+Faça upload de Plano_de_Aula_IA.pdf|.docx, Apresentacao_Aula_IA.pptx (ou inclua o link no README), Reflexao_IA.docx|.pdf e este README.md.
+Confira os nomes dos arquivos exatamente como acima.
+Clique em Commit changes e compartilhe o link do repositório.
