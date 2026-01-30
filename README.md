@@ -28,9 +28,8 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
 
 ---
 
-## 3) Estrutura do repositório (sugerida)
+## 3) Estrutura do repositório
 ```
-
 📁 Projeto-Plano-Aula-IA/
 ├── Plano_de_Aula_IA.pdf
 ├── Apresentacao_Aula_IA.pptx
