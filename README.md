@@ -38,7 +38,8 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
 
 ---
 
-## 4) Resumo do plano de aula 
+## 4) Resumo do plano de aula
+ 
 - **Tema/Disciplina:** Utilizando a Inteligência Artificial para o Estudo do Direito.
   
 - **Objetivos de aprendizagem:**
